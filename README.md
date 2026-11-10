@@ -21,5 +21,3 @@ CompTIA SecurityX, Tanium, and Azure security
 - Website: [dangomez.net](https://dangomez.net)
 - LinkedIn: [linkedin.com/in/dgomez72](https://www.linkedin.com/in/dgomez72)
 ```
-
-Replace everything in the editor with this, check the Preview tab, then commit.
